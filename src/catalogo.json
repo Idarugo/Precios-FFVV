@@ -1,0 +1,478 @@
+[
+ {
+  "codigo": "7990008251548",
+  "descripcion": "ACELGA UNIDAD LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 250,
+  "stock": 100
+ },
+ {
+  "codigo": "7990008251548",
+  "descripcion": "AJI LIQUIDACION",
+  "precioActual": 6360,
+  "precioSolicitado": 990,
+  "stock": 17
+ },
+ {
+  "codigo": "2545000000004",
+  "descripcion": "AJO LIQUIDACION",
+  "precioActual": 3960,
+  "precioSolicitado": 990,
+  "stock": 100
+ },
+ {
+  "codigo": "7990008251548",
+  "descripcion": "ALCACHOFA LIQUIDACION UNI",
+  "precioActual": 790,
+  "precioSolicitado": 390,
+  "stock": 100
+ },
+ {
+  "codigo": "7990008251548",
+  "descripcion": "APIO LIQUIDACION",
+  "precioActual": 1890,
+  "precioSolicitado": 990,
+  "stock": 50
+ },
+ {
+  "codigo": "7990008251548",
+  "descripcion": "ARANDANO LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 390,
+  "stock": 100
+ },
+ {
+  "codigo": "7990008251548",
+  "descripcion": "BERENJENA LIQUIDACION",
+  "precioActual": 390,
+  "precioSolicitado": 100,
+  "stock": 30
+ },
+ {
+  "codigo": "7990008251548",
+  "descripcion": "BROCOLI LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 490,
+  "stock": 80
+ },
+ {
+  "codigo": "2542939000006",
+  "descripcion": "CEBOLLA LIQUIDACION",
+  "precioActual": 990,
+  "precioSolicitado": 490,
+  "stock": 60
+ },
+ {
+  "codigo": "7990008251548",
+  "descripcion": "CHAMPINON LIQUIDACION",
+  "precioActual": 1490,
+  "precioSolicitado": 890,
+  "stock": 40
+ },
+ {
+  "codigo": "7990008251548",
+  "descripcion": "CHIRIMOYAS LIQUIDACION KG",
+  "precioActual": 3790,
+  "precioSolicitado": 1990,
+  "stock": 100
+ },
+ {
+  "codigo": "5609040080482",
+  "descripcion": "CHOCLO LIQUIDACION",
+  "precioActual": 550,
+  "precioSolicitado": 290,
+  "stock": 40
+ },
+ {
+  "codigo": "7990008251548",
+  "descripcion": "CIRUELA LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 390,
+  "stock": 100
+ },
+ {
+  "codigo": "25450000000",
+  "descripcion": "CLEMENTINA LIQUIDACION",
+  "precioActual": 899,
+  "precioSolicitado": 190,
+  "stock": 200
+ },
+ {
+  "codigo": "7990008251548",
+  "descripcion": "COLIFLOR LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 490,
+  "stock": 100
+ },
+ {
+  "codigo": "2542693000007",
+  "descripcion": "DAMASCO LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 390,
+  "stock": 100
+ },
+ {
+  "codigo": "2542126000000",
+  "descripcion": "DURAZNO LIQUIDACION",
+  "precioActual": 1090,
+  "precioSolicitado": 490,
+  "stock": 100
+ },
+ {
+  "codigo": "2542131000002",
+  "descripcion": "ESPINACA LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 390,
+  "stock": 100
+ },
+ {
+  "codigo": "2545666000004",
+  "descripcion": "GRANADA LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 390,
+  "stock": 100
+ },
+ {
+  "codigo": "2542511000004",
+  "descripcion": "KIWI LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 390,
+  "stock": 100
+ },
+ {
+  "codigo": "7804639630002",
+  "descripcion": "LECHUGA ESCAROLA LIQUIDACION",
+  "precioActual": 1290,
+  "precioSolicitado": 550,
+  "stock": 100
+ },
+ {
+  "codigo": "5609040073705",
+  "descripcion": "LECHUGA LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 290,
+  "stock": 100
+ },
+ {
+  "codigo": "2542127000009",
+  "descripcion": "LIMON LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 190,
+  "stock": 100
+ },
+ {
+  "codigo": "2543233000006",
+  "descripcion": "MANGO LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 390,
+  "stock": 100
+ },
+ {
+  "codigo": "2542130000003",
+  "descripcion": "MANZANA LIQUIDACION",
+  "precioActual": 999,
+  "precioSolicitado": 390,
+  "stock": 60
+ },
+ {
+  "codigo": "5609040080703",
+  "descripcion": "MELON LIQUIDACION",
+  "precioActual": 2390,
+  "precioSolicitado": 1000,
+  "stock": 30
+ },
+ {
+  "codigo": "2542350000005",
+  "descripcion": "MEMBRILLO LIQUIDACION KG",
+  "precioActual": 990,
+  "precioSolicitado": 490,
+  "stock": 40
+ },
+ {
+  "codigo": "2542421000002",
+  "descripcion": "NARANJA LIQUIDACION",
+  "precioActual": 699,
+  "precioSolicitado": 190,
+  "stock": 60
+ },
+ {
+  "codigo": "2542549000007",
+  "descripcion": "NECTARIN LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 690,
+  "stock": 100
+ },
+ {
+  "codigo": "2542605000002",
+  "descripcion": "PALTA LIQUIDACION",
+  "precioActual": 3990,
+  "precioSolicitado": 2990,
+  "stock": 100
+ },
+ {
+  "codigo": "2540303000003",
+  "descripcion": "PAPA LIQUIDACION",
+  "precioActual": 890,
+  "precioSolicitado": 390,
+  "stock": 100
+ },
+ {
+  "codigo": "5609040080604",
+  "descripcion": "PEPINO VERDURA LIQUIDACION",
+  "precioActual": 390,
+  "precioSolicitado": 100,
+  "stock": 150
+ },
+ {
+  "codigo": "2542120000006",
+  "descripcion": "PERA LIQUIDACION",
+  "precioActual": 899,
+  "precioSolicitado": 290,
+  "stock": 40
+ },
+ {
+  "codigo": "5609040132617",
+  "descripcion": "PIMENTON LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 390,
+  "stock": 100
+ },
+ {
+  "codigo": "5609040080574",
+  "descripcion": "PINA LIQUIDACION",
+  "precioActual": 2390,
+  "precioSolicitado": 990,
+  "stock": 100
+ },
+ {
+  "codigo": "2542606000001",
+  "descripcion": "PLATANO LIQUIDACION",
+  "precioActual": 1390,
+  "precioSolicitado": 790,
+  "stock": 80
+ },
+ {
+  "codigo": "2543232000007",
+  "descripcion": "POMELO LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 390,
+  "stock": 100
+ },
+ {
+  "codigo": "2542128000008",
+  "descripcion": "POROTO VERDE LIQUIDACION KG",
+  "precioActual": 1890,
+  "precioSolicitado": 590,
+  "stock": 80
+ },
+ {
+  "codigo": "5609040080543",
+  "descripcion": "REPOLLO LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 390,
+  "stock": 100
+ },
+ {
+  "codigo": "",
+  "descripcion": "SANDIA PRIMERA",
+  "precioActual": 3990,
+  "precioSolicitado": 1500,
+  "stock": 20
+ },
+ {
+  "codigo": "2542603000004",
+  "descripcion": "TOMATE LIQUIDACION",
+  "precioActual": 1290,
+  "precioSolicitado": 690,
+  "stock": 100
+ },
+ {
+  "codigo": "2544153000008",
+  "descripcion": "TUNAS LIQUIDACION KG",
+  "precioActual": 1990,
+  "precioSolicitado": 790,
+  "stock": 100
+ },
+ {
+  "codigo": "2541607000003",
+  "descripcion": "ZANAHORIA LIQUIDACION",
+  "precioActual": 790,
+  "precioSolicitado": 490,
+  "stock": 100
+ },
+ {
+  "codigo": "7809542400070",
+  "descripcion": "CHAMPINON BLANCO 200GR SETAS DEL HUERTO",
+  "precioActual": 1490,
+  "precioSolicitado": 1000,
+  "stock": 250
+ },
+ {
+  "codigo": "2542803000002",
+  "descripcion": "CEREZA LIQUIDACION",
+  "precioActual": 890,
+  "precioSolicitado": 290,
+  "stock": 100
+ },
+ {
+  "codigo": "2542076000006",
+  "descripcion": "TOMATE L VIDA SEGUNDA KG",
+  "precioActual": 990,
+  "precioSolicitado": 690,
+  "stock": 200
+ },
+ {
+  "codigo": "7990007410175",
+  "descripcion": "COLIFLOR PRIMERA UNI",
+  "precioActual": 1490,
+  "precioSolicitado": 1190,
+  "stock": 60
+ },
+ {
+  "codigo": "7990007410311",
+  "descripcion": "REPOLLO MORADO UNI",
+  "precioActual": 1390,
+  "precioSolicitado": 990,
+  "stock": 70
+ },
+ {
+  "codigo": "2542075000007",
+  "descripcion": "PERA FORELLE KG",
+  "precioActual": 899,
+  "precioSolicitado": 690,
+  "stock": 100
+ },
+ {
+  "codigo": "2542504000004",
+  "descripcion": "POROTO GRANADO KG",
+  "precioActual": 1790,
+  "precioSolicitado": 1590,
+  "stock": 200
+ },
+ {
+  "codigo": "7801340000155",
+  "descripcion": "CHAMPINONES ABRANTES LAMINADOS 200 GRS",
+  "precioActual": 1490,
+  "precioSolicitado": 890,
+  "stock": 70
+ },
+ {
+  "codigo": "7801340000148",
+  "descripcion": "CHAMPINON ABRANTES BLANCO 200 GR",
+  "precioActual": 1490,
+  "precioSolicitado": 990,
+  "stock": 120
+ },
+ {
+  "codigo": "7804678270009",
+  "descripcion": "APIO BOLSA AGROVALLE",
+  "precioActual": 1490,
+  "precioSolicitado": 990,
+  "stock": 32
+ },
+ {
+  "codigo": "2542129000007",
+  "descripcion": "POROTO GRANADO LIQUIDACION KG",
+  "precioActual": 1490,
+  "precioSolicitado": 590,
+  "stock": 60
+ },
+ {
+  "codigo": "7990007411141",
+  "descripcion": "CHOCLO AMERICANO UNI",
+  "precioActual": 390,
+  "precioSolicitado": 250,
+  "stock": 120
+ },
+ {
+  "codigo": "2546981000007",
+  "descripcion": "ARANDANO KG",
+  "precioActual": 3560,
+  "precioSolicitado": 1990,
+  "stock": 100
+ },
+ {
+  "codigo": "2541519000009",
+  "descripcion": "PLATANO BARRAGANETE VERDE KG",
+  "precioActual": 1990,
+  "precioSolicitado": 990,
+  "stock": 70
+ },
+ {
+  "codigo": "7990741011294",
+  "descripcion": "ZAPALLO ITALIANO BOLITA UNID",
+  "precioActual": 390,
+  "precioSolicitado": 200,
+  "stock": 100
+ },
+ {
+  "codigo": "5609009888470",
+  "descripcion": "PIMENTON ROJO SEGUNDA",
+  "precioActual": 590,
+  "precioSolicitado": 190,
+  "stock": 30
+ },
+ {
+  "codigo": "7990008464276",
+  "descripcion": "PIMENTON VERDE SEGUNDA UNI",
+  "precioActual": 490,
+  "precioSolicitado": 290,
+  "stock": 200
+ },
+ {
+  "codigo": "7804061000275",
+  "descripcion": "LECHUGA COSTINA PP UNI",
+  "precioActual": 990,
+  "precioSolicitado": 490,
+  "stock": 100
+ },
+ {
+  "codigo": "7804668890156",
+  "descripcion": "LECHUGA COSTINA ENV HORTINORTE",
+  "precioActual": 1290,
+  "precioSolicitado": 990,
+  "stock": 142
+ },
+ {
+  "codigo": "7990000744109",
+  "descripcion": "BROCOLI OFERTA UN",
+  "precioActual": 2190,
+  "precioSolicitado": 1490,
+  "stock": 90
+ },
+ {
+  "codigo": "7990007410359",
+  "descripcion": "LECHUGA COSTINA UNI",
+  "precioActual": 1490,
+  "precioSolicitado": 690,
+  "stock": 100
+ },
+ {
+  "codigo": "7809612200012",
+  "descripcion": "PALTA HASS MALLA 1KG PROPAL",
+  "precioActual": 3290,
+  "precioSolicitado": 1990,
+  "stock": 150
+ },
+ {
+  "codigo": "2542111000008",
+  "descripcion": "PALTA NEGRA LA CRUZ EXTRA KG.",
+  "precioActual": 3490,
+  "precioSolicitado": 1990,
+  "stock": 100
+ },
+ {
+  "codigo": "7809612200883",
+  "descripcion": "PALTA HASS MALLA 700 GRS PROPAL",
+  "precioActual": 2290,
+  "precioSolicitado": 1590,
+  "stock": 80
+ },
+ {
+  "codigo": "5609040080598",
+  "descripcion": "ZAPALLO ITALIANO LIQUIDACION",
+  "precioActual": 9990,
+  "precioSolicitado": 100,
+  "stock": 100
+ }
+]

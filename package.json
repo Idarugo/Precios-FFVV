@@ -1,0 +1,26 @@
+{
+  "name": "precios-ffvv",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite build && node server/index.js --abrir",
+    "dev": "node server/index.js & vite --open",
+    "build": "vite build",
+    "server": "node server/index.js",
+    "artifact": "vite build && node scripts/artifact.mjs"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "express": "^4.21.1",
+    "lucide-react": "^0.454.0",
+    "nodemailer": "^6.9.16",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.3",
+    "vite": "^5.4.10",
+    "vite-plugin-singlefile": "^2.0.3"
+  }
+}
